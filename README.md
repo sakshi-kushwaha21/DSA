@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/sakshi-kushwaha21/DSA/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/sakshi-kushwaha21/DSA/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshi-kushwaha21/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshi-kushwaha21/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sakshi-kushwaha21/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
