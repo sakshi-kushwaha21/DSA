@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakshi-kushwaha21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/sakshi-kushwaha21/DSA/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/sakshi-kushwaha21/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sakshi-kushwaha21/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/sakshi-kushwaha21/DSA/tree/master/0217-contains-duplicate) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sakshi-kushwaha21/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/sakshi-kushwaha21/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakshi-kushwaha21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sakshi-kushwaha21/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
