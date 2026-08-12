@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sakshi-kushwaha21/DSA/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakshi-kushwaha21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/sakshi-kushwaha21/DSA/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/sakshi-kushwaha21/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sakshi-kushwaha21/DSA/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshi-kushwaha21/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sakshi-kushwaha21/DSA/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/sakshi-kushwaha21/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakshi-kushwaha21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
