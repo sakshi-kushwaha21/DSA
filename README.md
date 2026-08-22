@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshi-kushwaha21/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakshi-kushwaha21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/sakshi-kushwaha21/DSA/tree/master/0217-contains-duplicate) |
+| [0561-array-partition](https://github.com/sakshi-kushwaha21/DSA/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/sakshi-kushwaha21/DSA/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/sakshi-kushwaha21/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sakshi-kushwaha21/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sakshi-kushwaha21/DSA/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/sakshi-kushwaha21/DSA/tree/master/0561-array-partition) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshi-kushwaha21/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sakshi-kushwaha21/DSA/tree/master/0217-contains-duplicate) |
+| [0561-array-partition](https://github.com/sakshi-kushwaha21/DSA/tree/master/0561-array-partition) |
 ## Interactive
 |  |
 | ------- |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sakshi-kushwaha21/DSA/tree/master/0078-subsets) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sakshi-kushwaha21/DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
