@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/sakshi-kushwaha21/DSA/tree/master/0509-fibonacci-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sakshi-kushwaha21/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/sakshi-kushwaha21/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshi-kushwaha21/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/sakshi-kushwaha21/DSA/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sakshi-kushwaha21/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sakshi-kushwaha21/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sakshi-kushwaha21/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
