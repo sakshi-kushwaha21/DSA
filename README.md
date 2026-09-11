@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sakshi-kushwaha21/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/sakshi-kushwaha21/DSA/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/sakshi-kushwaha21/DSA/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/sakshi-kushwaha21/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1480-running-sum-of-1d-array](https://github.com/sakshi-kushwaha21/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sakshi-kushwaha21/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3912-valid-elements-in-an-array](https://github.com/sakshi-kushwaha21/DSA/tree/master/3912-valid-elements-in-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sakshi-kushwaha21/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshi-kushwaha21/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/sakshi-kushwaha21/DSA/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/sakshi-kushwaha21/DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
