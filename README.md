@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/sakshi-kushwaha21/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sakshi-kushwaha21/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshi-kushwaha21/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sakshi-kushwaha21/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sakshi-kushwaha21/DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/sakshi-kushwaha21/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/sakshi-kushwaha21/DSA/tree/master/0509-fibonacci-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sakshi-kushwaha21/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sakshi-kushwaha21/DSA/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/sakshi-kushwaha21/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakshi-kushwaha21/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/sakshi-kushwaha21/DSA/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshi-kushwaha21/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sakshi-kushwaha21/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sakshi-kushwaha21/DSA/tree/master/0509-fibonacci-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sakshi-kushwaha21/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
