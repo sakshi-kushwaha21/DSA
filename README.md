@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sakshi-kushwaha21/DSA/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/sakshi-kushwaha21/DSA/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/sakshi-kushwaha21/DSA/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/sakshi-kushwaha21/DSA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/sakshi-kushwaha21/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshi-kushwaha21/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sakshi-kushwaha21/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/sakshi-kushwaha21/DSA/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/sakshi-kushwaha21/DSA/tree/master/0561-array-partition) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshi-kushwaha21/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sakshi-kushwaha21/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sakshi-kushwaha21/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sakshi-kushwaha21/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshi-kushwaha21/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
