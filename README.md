@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sakshi-kushwaha21/DSA/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/sakshi-kushwaha21/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sakshi-kushwaha21/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/sakshi-kushwaha21/DSA/tree/master/0509-fibonacci-number) |
@@ -136,10 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sakshi-kushwaha21/DSA/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sakshi-kushwaha21/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sakshi-kushwaha21/DSA/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/sakshi-kushwaha21/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
