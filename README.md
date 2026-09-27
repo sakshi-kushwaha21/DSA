@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sakshi-kushwaha21/DSA/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/sakshi-kushwaha21/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sakshi-kushwaha21/DSA/tree/master/0202-happy-number) |
+| [0279-perfect-squares](https://github.com/sakshi-kushwaha21/DSA/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/sakshi-kushwaha21/DSA/tree/master/0509-fibonacci-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sakshi-kushwaha21/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sakshi-kushwaha21/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshi-kushwaha21/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sakshi-kushwaha21/DSA/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/sakshi-kushwaha21/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sakshi-kushwaha21/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sakshi-kushwaha21/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/sakshi-kushwaha21/DSA/tree/master/0509-fibonacci-number) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/sakshi-kushwaha21/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sakshi-kushwaha21/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sakshi-kushwaha21/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
@@ -173,9 +176,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/sakshi-kushwaha21/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sakshi-kushwaha21/DSA/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/sakshi-kushwaha21/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sakshi-kushwaha21/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
