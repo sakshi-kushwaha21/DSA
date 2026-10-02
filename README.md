@@ -198,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sakshi-kushwaha21/DSA/tree/master/0073-set-matrix-zeroes) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/sakshi-kushwaha21/DSA/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
